@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => {
   const app_id = '87ae8b31';
-  const app_key = process.env.REACT_APP_API_KEY;
+  const app_key = "539bab0e62de9399172d66eedbbe643b";
   const proxy = "https://cors-anywhere.herokuapp.com/";
 
   const [recipes, setRecipes] = useState([]);
